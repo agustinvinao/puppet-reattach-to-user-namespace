@@ -2,7 +2,7 @@ Install [reattach-to-user-namespace](https://github.com/ChrisJohnsen/tmux-MacOSX
 
 ## Usage
 ```puppet
-include reattach_to_user_namespace
+include reattachtousernamespace
 ```
 
 ## Required Puppet Modules
