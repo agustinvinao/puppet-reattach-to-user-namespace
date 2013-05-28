@@ -4,7 +4,7 @@
 #
 # include reattach_to_user_namespace
 
-class reattach_to_user_namespace{
+class reattachtousernamespace{
   include homebrew
   package { 'reattach-to-user-namespace': }
 }
